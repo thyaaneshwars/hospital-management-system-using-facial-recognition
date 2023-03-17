@@ -1,1 +1,2 @@
-# hospital-management-system-using-facial-recognition
+# Attendance-system-using-face-recognition
+using machine learning
